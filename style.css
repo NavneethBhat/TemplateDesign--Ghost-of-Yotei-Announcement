@@ -48,8 +48,18 @@ p {
 }
 
 
+/* .NGC {
+    display: block;
+    margin-bottom: 30px;
+} */
+
+/* .NGC .haha {
+    color: yellow;
+    white-space: nowrap;
+    
+}
 .NGC {
-    display: flex;
+    display: block;
     gap: 15px; 
     margin-bottom: 30px; 
     position: absolute;
@@ -64,7 +74,27 @@ p {
 
 .NGC .haha{
     color: yellow;
+    
+} */
+.NGC {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 30px;
+    position: absolute;
+    top: 450px;
+    left: 300px;
 }
+
+.NGC .logo {
+    height: 60px;
+}
+
+.NGC .haha {
+    color: yellow;
+    margin-top: auto;
+    /* margin-bottom: auto; */
+}
+
 
 .main-image {
 
