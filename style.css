@@ -168,7 +168,7 @@ p{
     text-align: center;
     position: absolute;
     /* top: 1900px; */
-    left: 400px;
+    left: 350px;
     top: 1920px;
     background-color: white;
 }
@@ -185,6 +185,7 @@ p{
     color: black;
     text-align: center;
     top: 260px;
+    left: 350px;
     font-size: 40px;
     font-weight: bold;
     margin-bottom: 10px;
@@ -220,7 +221,7 @@ p{
     padding: -70px;
     justify-content: center;
     margin-top: 2500px;
-    transform: translateX(-860px);
+    transform: translateX(-890px);
 }
 
 .card {
@@ -251,4 +252,10 @@ p{
     font-weight: 500;
 }
 
+
+.yellow-line {
+    width: 100%;
+    height: 5px; /* adjust thickness */
+    background-color: yellow;
+}
 
