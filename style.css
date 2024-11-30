@@ -18,10 +18,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 500vh;
-    background: linear-gradient(to bottom, #3E4A59 18%, #ffffff 18%);
+    height: 350vh;
+    background: linear-gradient(to bottom, #3E4A59 25.71%, #ffffff 25.71%);
 }
-
 
 
 h1 {
@@ -156,7 +155,7 @@ p{
 .images{
     display: flex;
     position: relative;
-    top: -410px;
+    top: 270px;
     left: 610px;
     gap: 10px;
     background-color: white;
@@ -170,7 +169,7 @@ p{
     position: absolute;
     /* top: 1900px; */
     left: 400px;
-    top: 1900px;
+    top: 1920px;
     background-color: white;
 }
 .content2 {
@@ -220,7 +219,7 @@ p{
     gap: 20px; /* Space between cards */
     padding: -70px;
     justify-content: center;
-    margin-top: 1100px;
+    margin-top: 2500px;
     transform: translateX(-860px);
 }
 
