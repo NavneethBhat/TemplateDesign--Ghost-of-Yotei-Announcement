@@ -9,6 +9,7 @@ body {
     height: 180vh;
     background: linear-gradient(to bottom, #3E4A59 50%, #ffffff 50%);
     font-family: Arial, sans-serif;
+    
 }
 
 
@@ -149,7 +150,7 @@ p{
     display: flex;
     position: relative;
     top: 1000px;
-    left: 10px;
+    left: 610px;
     gap: 10px;
     background-color: white;
     height: 690px;
@@ -160,6 +161,8 @@ p{
     margin: 50px auto;
     text-align: center;
     position: absolute;
+    /* top: 1900px; */
+    left: 400px;
     top: 1900px;
     background-color: white;
 }
@@ -179,7 +182,7 @@ p{
     font-size: 40px;
     font-weight: bold;
     margin-bottom: 10px;
-    left: 330px;
+    /* left: 330px; */
 }
 
 .container3 .title3{
@@ -191,4 +194,55 @@ p{
     margin-bottom: 10px;
     left: 630px;
 }
+
+
+
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f9;
+} */
+
+.card-container {
+    display: flex;
+    gap: 20px; /* Space between cards */
+    padding: -70px;
+    justify-content: center;
+    margin-top: 3900px;
+    transform: translateX(-860px);
+}
+
+.card {
+    background-color: #fff;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    top: 2900px;
+    left: 100px;
+}
+
+.card img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.card h3 {
+    /* margin: 15px 0 10px; */
+    font-size: 18px;
+    color: #333;
+    font-family: 'calibri', Times, serif;
+    font-weight: 500;
+}
+
 
