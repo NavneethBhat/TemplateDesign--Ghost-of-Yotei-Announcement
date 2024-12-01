@@ -138,6 +138,7 @@ p {
     color: black;
     left: 0px;
     column-count: 2;
+    gap: 50px;
 }
 
 .container1 .title1{
@@ -209,6 +210,7 @@ p{
     color: black;
     left: 50px;
     column-count: 2;
+    gap: 50px;
 }
 
 .container2 .title2{
