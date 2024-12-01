@@ -13,5 +13,3 @@ cards.forEach(card => {
         
     });
 });
-
-

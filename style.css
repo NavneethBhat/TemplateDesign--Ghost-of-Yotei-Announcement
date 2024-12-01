@@ -12,6 +12,8 @@
     
 } */
 
+
+/* Body */
 body {
     font-family: Arial, sans-serif;
     color: #ffffff;
@@ -22,20 +24,20 @@ body {
     background: linear-gradient(to bottom, #0b4c82 25.71%, #ffffff 25.71%);
 }
 
-
+/* Main Heading */
 h1 {
     font-size: 70px;
     font-weight: bold;
-    line-height: 1.2; 
+    line-height: 120%; 
     margin-bottom: 20px;
     position: absolute;
-            top: -20px; /* Distance from the top */
-            left: 300px; /* Distance from the left */
-            font-size: 85px;
-            color: #f7f2f2;
+    top: -20px; 
+    left: 300px;
+    font-size: 85px;
+    color: #f7f2f2;
 }
 
-
+/* First Paragraph */
 p {
     font-size: 20px;
     margin-bottom: 30px;
@@ -43,8 +45,6 @@ p {
     position: absolute;
     top: 330px; 
     left: 300px;
-    
-    
 }
 
 
@@ -76,6 +76,9 @@ p {
     color: yellow;
     
 } */
+
+
+/* Logo, Trailer & Date Container */
 .NGC {
     display: flex;
     gap: 15px;
@@ -85,10 +88,14 @@ p {
     left: 300px;
 }
 
+
+/* Logo */
 .NGC .logo {
     height: 60px;
 }
 
+
+/* Source & Date */
 .NGC .haha {
     color: rgb(248, 248, 245);
     margin-top: auto;
@@ -96,19 +103,20 @@ p {
 }
 
 
+/* Youtube Video (Trailer) */
 .main-image {
-
-   
     border-radius: 5px;
-        position: absolute;
-        bottom: 50px; /* 50px from the bottom */
-        left: 440px; /* 50px from the left */
-        top: 530px;
-        height: 500px;
-        width: 900px;
+    position: absolute;
+    bottom: 50px;
+    left: 440px;
+    top: 530px;
+    height: 500px;
+    width: 900px;
     
 }
 
+
+/* Content Section 1 */
 .container1{
     width: 60%;
     margin: 50px auto;
@@ -116,6 +124,7 @@ p {
     position: absolute;
     top: 780px;
 }
+
 
 /* .title1 {
     font-size: 2.5rem;
@@ -131,6 +140,7 @@ p {
     top: 400px;
 } */
 
+/* First Content Section*/
 .content1 {
     font-size: 1.1rem;
     line-height: 1.8;
@@ -141,6 +151,8 @@ p {
     gap: 50px;
 }
 
+
+/* First Content Title */
 .container1 .title1{
     color: black;
     text-align: center;
@@ -150,6 +162,7 @@ p {
     margin-bottom: 10px;
     left: 300px;
 }
+
 
 /* .row{
     box-sizing: border-box;
@@ -183,6 +196,9 @@ p{
     text-align:center;
 } */
 
+
+
+/* Images */
 .images{
     display: flex;
     position: relative;
@@ -193,6 +209,8 @@ p{
     height: 690px;
 }
 
+
+/* Second Content Section */
 .container2{
     width: 60%;
     margin: 50px auto;
@@ -203,6 +221,9 @@ p{
     top: 1920px;
     background-color: white;
 }
+
+
+/* Second Content Paragraph */
 .content2 {
     font-size: 1.1rem;
     line-height: 1.8;
@@ -213,6 +234,8 @@ p{
     gap: 50px;
 }
 
+
+/* Second Content Title */
 .container2 .title2{
     color: black;
     text-align: center;
@@ -224,7 +247,9 @@ p{
     /* left: 330px; */
 }
 
-.container3 .title3{
+
+
+/* .container3 .title3{
     color: black;
     text-align: center;
     top: 2500px;
@@ -232,10 +257,7 @@ p{
     font-weight: bold;
     margin-bottom: 10px;
     left: 630px;
-}
-
-
-
+} */
 /* body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -247,6 +269,8 @@ p{
     background-color: #f4f4f9;
 } */
 
+
+/* Card Container */
 .card-container {
     display: flex;
     gap: 20px; /* Space between cards */
@@ -256,6 +280,8 @@ p{
     transform: translateX(-940px);
 }
 
+
+/* Cards */
 .card {
     background-color: #fff;
     width: 400px;
@@ -268,17 +294,20 @@ p{
     text-align: center;
     top: 2900px;
     left: 100px;
-
     transition: transform 0.5s ease, opacity 0.5s ease;
     cursor: pointer;
 }
 
+
+/* Card Image */
 .card img {
     width: 100%;
     height: 350px;
     object-fit: cover;
 }
 
+
+/* Card Description */
 .card h3 {
     /* margin: 15px 0 10px; */
     font-size: 18px;
@@ -288,14 +317,15 @@ p{
 }
 
 
-.yellow-line {
+/* Underline for Content Titles */
+.brown-line {
     width: 100%;
     height: 5px; /* adjust thickness */
     background-color: #964B00;
 }
 
 
-
+/* Card Reactivity */
 .card:hover {
     transform: scale(1.1);
     opacity: 5.0;
