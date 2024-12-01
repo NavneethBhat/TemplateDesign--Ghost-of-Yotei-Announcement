@@ -266,6 +266,9 @@ p{
     text-align: center;
     top: 2900px;
     left: 100px;
+
+    transition: transform 0.5s ease, opacity 0.5s ease;
+    cursor: pointer;
 }
 
 .card img {
@@ -289,3 +292,9 @@ p{
     background-color: yellow;
 }
 
+
+
+.card:hover {
+    transform: scale(1.1);
+    opacity: 0.8;
+}
