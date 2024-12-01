@@ -19,7 +19,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 350vh;
-    background: linear-gradient(to bottom, #3E4A59 25.71%, #ffffff 25.71%);
+    background: linear-gradient(to bottom, #0b4c82 25.71%, #ffffff 25.71%);
 }
 
 
@@ -90,7 +90,7 @@ p {
 }
 
 .NGC .haha {
-    color: yellow;
+    color: rgb(248, 248, 245);
     margin-top: auto;
     /* margin-bottom: auto; */
 }
@@ -102,7 +102,7 @@ p {
     border-radius: 5px;
         position: absolute;
         bottom: 50px; /* 50px from the bottom */
-        left: 450px; /* 50px from the left */
+        left: 440px; /* 50px from the left */
         top: 530px;
         height: 500px;
         width: 900px;
@@ -114,7 +114,7 @@ p {
     margin: 50px auto;
     text-align: center;
     position: absolute;
-    top: 800px;
+    top: 780px;
 }
 
 /* .title1 {
@@ -147,7 +147,7 @@ p {
     font-size: 40px;
     font-weight: bold;
     margin-bottom: 10px;
-    left: 330px;
+    left: 300px;
 }
 
 /* .row{
@@ -207,7 +207,7 @@ p{
     line-height: 1.8;
     text-align: justify;
     color: black;
-    left: 0px;
+    left: 50px;
     column-count: 2;
 }
 
@@ -215,7 +215,7 @@ p{
     color: black;
     text-align: center;
     top: 260px;
-    left: 350px;
+    left: 230px;
     font-size: 40px;
     font-weight: bold;
     margin-bottom: 10px;
@@ -251,7 +251,7 @@ p{
     padding: -70px;
     justify-content: center;
     margin-top: 2500px;
-    transform: translateX(-890px);
+    transform: translateX(-1015px);
 }
 
 .card {
@@ -289,7 +289,7 @@ p{
 .yellow-line {
     width: 100%;
     height: 5px; /* adjust thickness */
-    background-color: yellow;
+    background-color: #964B00;
 }
 
 
