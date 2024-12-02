@@ -160,10 +160,11 @@ p {
     color: black;
     /* top: 1000px; */
     display: flex;
-    gap: 15px;
+    flex-direction: column;
+    /* gap: 15px; */
     position: absolute;
     top: 2500px;
-    left: 615px;
+    left: 610px;
     /* justify-content: center; */
     /* align-items: center; */
     font-size: 40px;
