@@ -24,6 +24,7 @@ body {
     background: linear-gradient(to bottom, #0b4c82 25.71%, #ffffff 25.71%);
 }
 
+
 /* Main Heading */
 h1 {
     font-size: 70px;
@@ -36,6 +37,7 @@ h1 {
     font-size: 85px;
     color: #f7f2f2;
 }
+
 
 /* First Paragraph */
 p {
