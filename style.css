@@ -151,6 +151,22 @@ p {
     left: 0px;
     column-count: 2;
     gap: 50px;
+    margin-bottom: 20px;
+}
+
+
+.others{
+    /* position: relative; */
+    color: black;
+    /* top: 1000px; */
+    display: flex;
+    gap: 15px;
+    position: absolute;
+    top: 2500px;
+    left: 615px;
+    /* justify-content: center; */
+    /* align-items: center; */
+    font-size: 40px;
 }
 
 
@@ -220,7 +236,7 @@ p{
     position: absolute;
     /* top: 1900px; */
     left: 340px;
-    top: 1920px;
+    top: 1900px;
     background-color: white;
 }
 
@@ -314,7 +330,7 @@ p{
     /* margin: 15px 0 10px; */
     font-size: 18px;
     color: #333;
-    font-family: 'calibri', Times, serif;
+    font-family: Arial, sans-serif;
     font-weight: 500;
 }
 
@@ -338,3 +354,5 @@ p{
 .sitelink{
     color: #dcdcdc;
 }
+
+
