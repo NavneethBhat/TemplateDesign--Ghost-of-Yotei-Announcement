@@ -17,15 +17,15 @@ This webpage also includes essential information about developer company "Sucker
 ## To run this webpage locally:
 1. Clone the repository using the following command:
 
-``bash
+  ``bash
 
-git clone https://github.com/yourusername/ghost-of-yotei-game-announcement.git
+    git clone https://github.com/yourusername/ghost-of-yotei-game-announcement.git
 
 2. Navigate to the project folder:
 
-``bash
+  ``bash
 
-cd ghost-of-yotei-game-announcement
+    cd ghost-of-yotei-game-announcement
 
 3. Open index.html in your preferred web browser to view the page.
 
