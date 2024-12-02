@@ -1,8 +1,8 @@
 ## Ghost of Yotei Game Announcement Webpage
 
 ## Overview:
-This project features a clean and responsive webpage created for the announcement of the upcoming game Ghost of Yotei. The webpage presents the game’s storyline, features, and release information in an engaging layout that is designed to build anticipation for the game’s launch.
-This webpage also includes essential information about developer company "Sucker Punch" including basic storyline, features, release details & others games by the Sucker Punch.
+This project features a clean and responsive webpage created for the announcement of the upcoming game "Ghost of Yōtei". The webpage presents the game’s storyline, features, and release information in an engaging layout that is designed to build anticipation for the game’s launch.
+This webpage also includes essential information about developer company "Sucker Punch" including basic storyline, features, release details & others games by the "Sucker Punch".
 
 ## Features:
 1. Interactive Layout: The design makes use of animations and effects to enhance the visual appeal and engagement of users.
@@ -29,5 +29,5 @@ This webpage also includes essential information about developer company "Sucker
 
 3. Open index.html in your preferred web browser to view the page.
 
-Contributing: 
+Contribution: 
 If you would like to contribute to this project, feel free to fork the repository and submit pull requests with improvements, bug fixes, or suggestions for new features.
