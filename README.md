@@ -4,7 +4,7 @@
 This project features a clean and responsive webpage created for the announcement of the upcoming game "Ghost of Yōtei". The webpage presents the game’s storyline, features, and release information in an engaging layout that is designed to build anticipation for the game’s launch.
 This webpage also includes essential information about developer company "Sucker Punch" including basic storyline, features, release details & others games by the "Sucker Punch".
 
-Quick launch the app: [Weather App Live](https://ghost-of-yotei-announcement-template.netlify.app/)
+Quick launch the app: [Ghost-of-Yotei-Announcement](https://ghost-of-yotei-announcement-template.netlify.app/)
 
 ## Features:
 1. Interactive Layout: The design makes use of animations and effects to enhance the visual appeal and engagement of users.
